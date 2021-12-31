@@ -1,0 +1,20 @@
+[
+    {
+      "name":"Barot Bellingham",
+      "shortname":"barot_bellingham",
+      "reknown":"Royal Academy of Painting and Sclupture",
+      "bio":"Barot has just finished his final year at the Royal Academy of Painting and Sculpture"
+    },
+    {
+      "name":"Johnny Aubert",
+      "shortname":"johnny_aubert",
+      "reknown":"Arkham Asylum",
+      "bio":"Johnny is a serialkiller who kills for fun and treats himself to a hotdog for every kill"
+    },
+    {
+      "name":"Jenny Zsacs",
+      "shortname":"jenny_zsacs",
+      "reknown":"Public University of Melbourne",
+      "bio":"Jenny loves to play with kangaroos and often gets punched in the face"
+    }
+  ]
